@@ -10,3 +10,5 @@ vlans:
     name: EightyFive
   - 99:
     name: NinetyNine
+  - 100:
+    name: OneHundred

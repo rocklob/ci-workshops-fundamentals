@@ -8,3 +8,5 @@ vlans:
     name: Thirty
   - 85:
     name: EightyFive
+  - 99:
+    name: NinetyNine
